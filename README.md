@@ -1,1 +1,1 @@
-# Paleidmo instrukcijos
+# Paleidimo instrukcijos
