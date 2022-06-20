@@ -1,1 +1,1 @@
-# Teltonika_IPV4
+# Paleidmo instrukcijos
